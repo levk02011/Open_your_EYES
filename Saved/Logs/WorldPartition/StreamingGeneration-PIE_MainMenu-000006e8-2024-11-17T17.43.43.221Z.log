@@ -1,0 +1,41 @@
+[+] Containers:
+ |- [+] Container: /Game/MainMenu
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:DFB3123D48BCF8BD77198A84EF103F79 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_40C2BA4221EF5A3002_1410594023 Label:Plane SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1232.500 Y=-1365.000 Z=1420.000), Max=(X=1392.500 Y=885.000 Z=1420.000) RuntimeBounds:IsValid=true, Min=(X=-1232.500 Y=-1365.000 Z=1420.000), Max=(X=1392.500 Y=885.000 Z=1420.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:FA7D5DB54A13B36D9F252DB866E85418 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:DFB3123D48BCF8BD77198A84EF103F79 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_40C2BA4221EF5A3002_1410594023 Label:Plane SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1232.500 Y=-1365.000 Z=1420.000), Max=(X=1392.500 Y=885.000 Z=1420.000) RuntimeBounds:IsValid=true, Min=(X=-1232.500 Y=-1365.000 Z=1420.000), Max=(X=1392.500 Y=885.000 Z=1420.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:FA7D5DB54A13B36D9F252DB866E85418 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-1232.500 Y=-1365.000 Z=1420.000), Max=(X=1392.500 Y=885.000 Z=1420.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/MainMenu
+----------------------------------------------------------------------------------------------------------------
+MainMenu - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of MainMenu Persistent Level
+ |- Always loaded Actor Count: 1 
+ |- Actor Path: /Game/MainMenu.MainMenu:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/MainMenu/5/MC/6W7OSATMZ5EJ78AVMP7FG7
+
+----------------------------------------------------------------------------------------------------------------
+MainMenu - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell MainMenu_MainPartition_L0_X0_Y-1 (4P2GP8RFU818SN2OEZQ2LXGJB)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=-1365.000 Z=0.000), Max=(X=1392.500 Y=0.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=-12800.000 Z=0.000), Max=(X=12800.000 Y=0.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_40C2BA4221EF5A3002_1410594023
+ |   |-         Package: /Game/__ExternalActors__/MainMenu/5/4B/JYMQTA5TF1JM8UWN74AOHW
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: DFB3123D48BCF8BD77198A84EF103F79
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
