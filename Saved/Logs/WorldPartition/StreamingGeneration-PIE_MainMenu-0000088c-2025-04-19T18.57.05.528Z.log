@@ -1,0 +1,76 @@
+[+] Containers:
+ |- [+] Container: /Game/MainMenu
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:4D3B10954FBAC72831B58081DB6408A9 NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_40C2BA4221EF6F3002_1380033722 Label:SkyAtmosphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1504.390 Y=-3138.567 Z=1603.786), Max=(X=4923.610 Y=2061.433 Z=1859.786) RuntimeBounds:IsValid=true, Min=(X=-1376.390 Y=-538.567 Z=1731.786), Max=(X=-1376.390 Y=-538.567 Z=1731.786) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:7B0F041C40FCCD7A3F191A82A2DA581F NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_40C2BA4221EF5B3002_1633991201 Label:PointLight2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-540.000 Y=-590.000 Z=950.000), Max=(X=1460.000 Y=1410.000 Z=2950.000) RuntimeBounds:IsValid=true, Min=(X=-540.000 Y=-590.000 Z=950.000), Max=(X=1460.000 Y=1410.000 Z=2950.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:93E175544BB0D7193988C2844DAA3FDE NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_40C2BA4221EF5B3002_1579254200 Label:PointLight SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1910.000 Y=-750.000 Z=1400.000), Max=(X=90.000 Y=1250.000 Z=3400.000) RuntimeBounds:IsValid=true, Min=(X=-1910.000 Y=-750.000 Z=1400.000), Max=(X=90.000 Y=1250.000 Z=3400.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:DFB3123D48BCF8BD77198A84EF103F79 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_40C2BA4221EF5A3002_1410594023 Label:Plane SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1232.500 Y=-1365.000 Z=1420.000), Max=(X=1392.500 Y=885.000 Z=1420.000) RuntimeBounds:IsValid=true, Min=(X=-1232.500 Y=-1365.000 Z=1420.000), Max=(X=1392.500 Y=885.000 Z=1420.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:EE4B9A554AE2D6CCC273048D6D28C80E NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:4D3B10954FBAC72831B58081DB6408A9 NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_40C2BA4221EF6F3002_1380033722 Label:SkyAtmosphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1504.390 Y=-3138.567 Z=1603.786), Max=(X=4923.610 Y=2061.433 Z=1859.786) RuntimeBounds:IsValid=true, Min=(X=-1376.390 Y=-538.567 Z=1731.786), Max=(X=-1376.390 Y=-538.567 Z=1731.786) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:7B0F041C40FCCD7A3F191A82A2DA581F NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_40C2BA4221EF5B3002_1633991201 Label:PointLight2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-540.000 Y=-590.000 Z=950.000), Max=(X=1460.000 Y=1410.000 Z=2950.000) RuntimeBounds:IsValid=true, Min=(X=-540.000 Y=-590.000 Z=950.000), Max=(X=1460.000 Y=1410.000 Z=2950.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:93E175544BB0D7193988C2844DAA3FDE NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_40C2BA4221EF5B3002_1579254200 Label:PointLight SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1910.000 Y=-750.000 Z=1400.000), Max=(X=90.000 Y=1250.000 Z=3400.000) RuntimeBounds:IsValid=true, Min=(X=-1910.000 Y=-750.000 Z=1400.000), Max=(X=90.000 Y=1250.000 Z=3400.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:DFB3123D48BCF8BD77198A84EF103F79 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_40C2BA4221EF5A3002_1410594023 Label:Plane SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1232.500 Y=-1365.000 Z=1420.000), Max=(X=1392.500 Y=885.000 Z=1420.000) RuntimeBounds:IsValid=true, Min=(X=-1232.500 Y=-1365.000 Z=1420.000), Max=(X=1392.500 Y=885.000 Z=1420.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:EE4B9A554AE2D6CCC273048D6D28C80E NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-1910.000 Y=-1365.000 Z=950.000), Max=(X=1460.000 Y=1410.000 Z=3400.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/MainMenu
+----------------------------------------------------------------------------------------------------------------
+MainMenu - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of MainMenu Persistent Level
+ |- Always loaded Actor Count: 2 
+ |- Actor Path: /Game/MainMenu.MainMenu:PersistentLevel.SkyAtmosphere_UAID_40C2BA4221EF6F3002_1380033722
+ |- Actor Package: /Game/__ExternalActors__/MainMenu/A/ZW/SOZ448TO1YT5DSNBG00O3G
+ |- Actor Path: /Game/MainMenu.MainMenu:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/MainMenu/5/MC/6W7OSATMZ5EJ78AVMP7FG7
+
+----------------------------------------------------------------------------------------------------------------
+MainMenu - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell MainMenu_MainPartition_L0_X0_Y0 (4H511GX4QIX1GNCOZNKEC39YH)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=1460.000 Y=1410.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=12800.000 Y=12800.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/MainMenu.MainMenu:PersistentLevel.PointLight_UAID_40C2BA4221EF5B3002_1633991201
+ |   |-         Package: /Game/__ExternalActors__/MainMenu/6/N2/S66EVZAH65BLANKY7D4RPY
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7B0F041C40FCCD7A3F191A82A2DA581F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell MainMenu_MainPartition_L0_X0_Y-1 (4P2GP8RFU818SN2OEZQ2LXGJB)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=-1365.000 Z=0.000), Max=(X=1392.500 Y=0.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=-12800.000 Z=0.000), Max=(X=12800.000 Y=0.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_40C2BA4221EF5A3002_1410594023
+ |   |-         Package: /Game/__ExternalActors__/MainMenu/5/4B/JYMQTA5TF1JM8UWN74AOHW
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: DFB3123D48BCF8BD77198A84EF103F79
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell MainMenu_MainPartition_L0_X-1_Y0 (8TY6NDBM6K7THNXWTTIL4DJ97)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-1910.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=1250.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-12800.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=12800.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/MainMenu.MainMenu:PersistentLevel.PointLight_UAID_40C2BA4221EF5B3002_1579254200
+ |   |-         Package: /Game/__ExternalActors__/MainMenu/B/YC/JJ1GMN1CYEKTI7MOB8911H
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 93E175544BB0D7193988C2844DAA3FDE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
